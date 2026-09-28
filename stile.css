@@ -1,0 +1,50 @@
+
+body{
+    margin: 0;
+    background-color: #7f968e;
+    /* background-color: #8b8989; */
+}
+
+header{
+    background-color: #1bb0ba;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+header h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+section.prueba article.enprueba{
+
+    background-color: aqua;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+
+}
+
+section.prueba article.enprueba:hover{
+
+    box-shadow: 0rem 0rem 4rem rgb(33, 34, 89);
+
+}
+
+section.prueba article.enprueba h2{
+
+    margin: 5px 0;
+
+}
+
+.prueba{
+
+    font-size: 15px;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
